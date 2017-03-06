@@ -1,3 +1,5 @@
+## Checkers
+
 This was assignment 1 for Advanced Programming Techniques.
 
 We were given skeleton code and told to fill it out to enable two players to 
